@@ -9,3 +9,7 @@ See the [Wiki](https://github.com/kdnwarren/Beginner-Guide-to-VM-Setup/wiki/How-
 A beginner-friendly guide that explains how to plan and create wireframes for an Android app, including screen layout, user flow, navigation, and basic design structure.
 
 See the [Wiki](https://github.com/kdnwarren/Beginner-Guide-to-VM-Setup/wiki/How-to-Create-Wireframes-for-an-Android-App)
+
+A beginner-friendly guide that explains how wireframes support SQLite database planning in Android apps, including table design, basic inserts and queries, and ways to expand the project with GCP-supported cloud features.
+
+See the [Wiki](https://github.com/kdnwarren/Beginner-Guide-to-VM-Setup/wiki/How-to-Use-Wireframes-to-Plan-Basic-SQLite-Storage-in-an-Android-App)
